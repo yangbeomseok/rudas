@@ -1,0 +1,17 @@
+# Sensitive files
+*.env
+*.credentials
+*.key
+*.pem
+config.json
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
